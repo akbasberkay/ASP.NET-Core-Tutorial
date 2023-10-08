@@ -1,0 +1,30 @@
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\bin\Debug\net7.0\appsettings.json
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\bin\Debug\net7.0\E-Commerce Web App.staticwebassets.runtime.json
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\bin\Debug\net7.0\E-Commerce Web App.exe
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\bin\Debug\net7.0\E-Commerce Web App.deps.json
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\bin\Debug\net7.0\E-Commerce Web App.runtimeconfig.json
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\bin\Debug\net7.0\E-Commerce Web App.dll
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\bin\Debug\net7.0\E-Commerce Web App.pdb
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\E-Commerce Web App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\E-Commerce Web App.AssemblyInfoInputs.cache
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\E-Commerce Web App.AssemblyInfo.cs
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\E-Commerce Web App.csproj.CoreCompileInputs.cache
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\E-Commerce Web App.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\E-Commerce Web App.RazorAssemblyInfo.cache
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\E-Commerce Web App.RazorAssemblyInfo.cs
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\staticwebassets\msbuild.E-Commerce Web App.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\staticwebassets\msbuild.build.E-Commerce Web App.props
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.E-Commerce Web App.props
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.E-Commerce Web App.props
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\scopedcss\bundle\E-Commerce Web App.styles.css
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\scopedcss\projectbundle\E-Commerce Web App.bundle.scp.css
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\E-Commerce Web App.dll
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\refint\E-Commerce Web App.dll
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\E-Commerce Web App.pdb
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\E-Commerce Web App.genruntimeconfig.cache
+C:\Users\Berkay2\Documents\GitHub\ASP.NET-Core-Tutorial\E-Commerce Web App\E-Commerce Web App\obj\Debug\net7.0\ref\E-Commerce Web App.dll
